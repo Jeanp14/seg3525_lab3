@@ -50,7 +50,6 @@ var products = [
 		glutenFree: true,
 		organic: true,
 		price: 1.99
-		img: document.getElementById("banana").src
 	},
 	{
 		name: "cake  (8.99)",
